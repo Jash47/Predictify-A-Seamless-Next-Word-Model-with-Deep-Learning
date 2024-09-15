@@ -1,6 +1,6 @@
-# Task 8 - Next Word Prediction
+Predictify: A Seamless Next Word Model with Deep Learning
 
-This repository contains the implementation of a Next Word Prediction model. The model aims to predict the most probable word that follows a given context. The project was developed as part of an internship task assigned by Lets Grow More.
+This repository contains the implementation of a Predictify: A Seamless Next Word Model with Deep Learning model. The model aims to predict the most probable word that follows a given context.
 
 ## Table of Contents
 
