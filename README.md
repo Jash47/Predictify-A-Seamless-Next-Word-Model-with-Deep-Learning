@@ -1,4 +1,4 @@
-Predictify: A Seamless Next Word Model with Deep Learning
+# Predictify: A Seamless Next Word Model with Deep Learning
 
 This repository contains the implementation of a Predictify: A Seamless Next Word Model with Deep Learning model. The model aims to predict the most probable word that follows a given context.
 
